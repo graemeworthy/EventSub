@@ -1,0 +1,16 @@
+{
+  "name": "eventsub",
+  "version": "0.0.0",
+  "description": "A basic, and tiny but inspectable pub-sub event system.",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC", 
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "babel-jest": "23.4.2",
+    "babel-preset-env": "1.7.0",
+    "jest": "23.5.0"
+  }
+}
